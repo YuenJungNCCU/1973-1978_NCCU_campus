@@ -3,8 +3,9 @@
     "attribution": "",
     "call_to_action": true,
     "call_to_action_text": "",
-    "map_as_image": false,
-    "map_background_color": "#919191",
+    "language": "zh-tw",
+    "map_as_image": true,
+    "map_background_color": "#333333",
     "map_subdomains": "abcd",
     "map_type": "zoomify",
     "slides": [
@@ -27,7 +28,7 @@
         "date": "",
         "location": {
           "lat": 40.38002840251183,
-          "line": false,
+          "line": true,
           "lon": -94.482421875,
           "zoom": 4
         },
@@ -45,7 +46,7 @@
         "date": "",
         "location": {
           "lat": 49.32512199104001,
-          "line": false,
+          "line": true,
           "lon": -75.5859375,
           "zoom": 4
         },
@@ -60,7 +61,7 @@
         "date": "",
         "location": {
           "lat": 38.41055825094609,
-          "line": false,
+          "line": true,
           "lon": -77.16796875,
           "zoom": 4
         },
@@ -75,7 +76,7 @@
         "date": "",
         "location": {
           "lat": 28.844673680771795,
-          "line": false,
+          "line": true,
           "lon": -36.5625,
           "zoom": 4
         },
@@ -90,7 +91,7 @@
         "date": "",
         "location": {
           "lat": 41.77131167976407,
-          "line": false,
+          "line": true,
           "lon": -70.83984375,
           "zoom": 4
         },
@@ -105,7 +106,7 @@
         "date": "",
         "location": {
           "lat": 28.536274512989916,
-          "line": false,
+          "line": true,
           "lon": -61.787109375,
           "zoom": 4
         },
@@ -120,7 +121,7 @@
         "date": "",
         "location": {
           "lat": 33.578014746143985,
-          "line": false,
+          "line": true,
           "lon": -69.9609375,
           "zoom": 4
         },
@@ -135,7 +136,7 @@
         "date": "",
         "location": {
           "lat": 36.31512514748051,
-          "line": false,
+          "line": true,
           "lon": -85.341796875,
           "zoom": 4
         },
@@ -153,7 +154,7 @@
         "date": "",
         "location": {
           "lat": 45.767522962149876,
-          "line": false,
+          "line": true,
           "lon": -86.484375,
           "zoom": 4
         },
@@ -168,7 +169,7 @@
         "date": "",
         "location": {
           "lat": 33.284619968887675,
-          "line": false,
+          "line": true,
           "lon": -29.794921874999996,
           "zoom": 4
         },
@@ -183,7 +184,7 @@
         "date": "",
         "location": {
           "lat": 43.96119063892024,
-          "line": false,
+          "line": true,
           "lon": -59.4140625,
           "zoom": 4
         },
@@ -198,7 +199,7 @@
         "date": "",
         "location": {
           "lat": 56.84897198026975,
-          "line": false,
+          "line": true,
           "lon": -22.412109375,
           "zoom": 4
         },
