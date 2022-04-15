@@ -25,6 +25,7 @@
         "type": "overview"
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 40.38002840251183,
@@ -43,6 +44,7 @@
         }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 49.32512199104001,
@@ -58,6 +60,7 @@
         "text": { "headline": "\u6e38\u6cf3\u6c60", "text": "" }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 38.41055825094609,
@@ -73,6 +76,7 @@
         "text": { "headline": "\u601d\u8ce2\u6a4b", "text": "" }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 28.844673680771795,
@@ -88,6 +92,7 @@
         "text": { "headline": "\u798f\u5229\u793e", "text": "" }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 41.77131167976407,
@@ -103,6 +108,7 @@
         "text": { "headline": "\u61a9\u8ce2\u6a13", "text": "" }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 28.536274512989916,
@@ -118,6 +124,7 @@
         "text": { "headline": "\u5b78\u601d\u6a13", "text": "" }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 33.578014746143985,
@@ -133,6 +140,7 @@
         "text": { "headline": "\u838a\u656c\u4e00\u820d", "text": "" }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 36.31512514748051,
@@ -151,6 +159,7 @@
         }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 45.767522962149876,
@@ -166,6 +175,7 @@
         "text": { "headline": "\u4e95\u5858\u6a13", "text": "" }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 33.284619968887675,
@@ -181,6 +191,7 @@
         "text": { "headline": "\u96c6\u82f1\u6a13", "text": "" }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 43.96119063892024,
@@ -196,6 +207,7 @@
         "text": { "headline": "\u4e2d\u6b63\u5716\u66f8\u9928", "text": "" }
       },
       {
+        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 56.84897198026975,
