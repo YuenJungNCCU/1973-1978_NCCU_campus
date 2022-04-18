@@ -25,7 +25,6 @@
         "type": "overview"
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 40.38002840251183,
@@ -44,7 +43,6 @@
         }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 49.32512199104001,
@@ -60,7 +58,6 @@
         "text": { "headline": "游泳池", "text": "" }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 38.41055825094609,
@@ -69,14 +66,13 @@
           "zoom": 4
         },
         "media": {
-          "caption": "<p>\u672c\u6821\u65bc\u6728\u67f5\u5fa9\u6821\u4e4b\u6642\uff0c\u73fe\u674e\u5712\u539f\u70ba\u6cb3\u9053\uff0c\u7531\u61a9\u8ce2\u6a13\u5f80\u793e\u8cc7\u4e2d\u5fc3\u5fc5\u9808\u8de8\u8d8a\u300c\u601d\u8ce2\u6a4b\u300d\u59cb\u53ef\u5230\u9054\u3002</p<p>\u6c11\u570b 64 \u5e74\uff0c\u6821\u5167\u6307\u5357\u6eaa\u5824\u9632\u7d93\u53f0\u5317\u5e02\u653f\u5e9c\u4fee\u5efa\u5b8c\u6210\uff0c\u53d6\u4ee3\u539f\u6709\u601d\u8ce2\u6a4b\u4e0b\u6cb3\u9053\u9632\u6d2a\u529f\u80fd\uff0c\u672c\u6821\u82b1\u8cbb\u6975\u5c11\u8cbb\u7528\u8cfc\u8cb7\u571f\u65b9(\u6bcf\u5361\u8eca 50 \u5143)\uff0c\u586b\u5e73\u601d\u8ce2\u6a4b\u4e0b\u6cb3\u9053\uff0c\u70ba\u672c\u6821\u65b0\u589e\u5343\u9918\u576a\u7684\u65b0\u751f\u5730\uff0c\u521d\u671f\u505a\u70ba\u7da0\u5730\u4f7f\u7528\u3002\u6c11\u570b 77 \u5e74\uff0c\u601d\u8ce2\u6a4b\u4e0b\u6cb3\u9053\u7d93\u586b\u5e73\u70ba\u7da0\u5730\u5f8c\uff0c\u8a72\u6a4b\u5df2\u7121\u5be6\u969b\u4f7f\u7528\u529f\u80fd\uff0c\u70ba\u6539\u5584\u5468\u908a\u74b0\u5883\u8207\u514d\u65bc\u8eca\u8f1b\u722c\u5761\uff0c\u65bc\u4e03\u6708\u4e2d\u62c6\u9664\u601d\u8ce2\u6a4b\uff0c\u4f7f\u56db\u7dad\u9053\u8def\u9762\u66f4\u70ba\u5bec\u95ca\u9806\u66a2\uff0c\u5468\u908a\u666f\u89c0\u7165\u7136\u4e00\u65b0\u3002</p>",
+          "caption": "<p>本校於木柵復校之時，現李園原為河道，由憩賢樓往社資中心必須跨越「思賢橋」始可到達。</p><p>民國 64 年，校內指南溪堤防經台北市政府修建完成，取代原有思賢橋下河道防洪功能，本校花費極少費用購買土方(每卡車 50 元)，填平思賢橋下河道，為本校新增千餘坪的新生地，初期做為綠地使用。民國 77 年，思賢橋下河道經填平為綠地後，該橋已無實際使用功能，為改善周邊環境與免於車輛爬坡，於七月中拆除思賢橋，使四維道路面更為寬闊順暢，周邊景觀煥然一新。</p>",
           "credit": "完工日期:1973-10-29",
           "url": "//uploads.knightlab.com/storymapjs/ff43ad1d3422be7f7cb44daa616680b1/nccumap/_images/1984\u5e74\u601d\u8ce2\u6a4b(\u7562\u518a44\u5c46).jpg"
         },
         "text": { "headline": "思賢橋", "text": "" }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 28.844673680771795,
@@ -92,7 +88,6 @@
         "text": { "headline": "\u798f\u5229\u793e", "text": "" }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 41.77131167976407,
@@ -108,7 +103,6 @@
         "text": { "headline": "\u61a9\u8ce2\u6a13", "text": "" }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 28.536274512989916,
@@ -124,7 +118,6 @@
         "text": { "headline": "\u5b78\u601d\u6a13", "text": "" }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 33.578014746143985,
@@ -140,7 +133,6 @@
         "text": { "headline": "\u838a\u656c\u4e00\u820d", "text": "" }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 36.31512514748051,
@@ -159,7 +151,6 @@
         }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 45.767522962149876,
@@ -175,7 +166,6 @@
         "text": { "headline": "\u4e95\u5858\u6a13", "text": "" }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 33.284619968887675,
@@ -191,7 +181,6 @@
         "text": { "headline": "\u96c6\u82f1\u6a13", "text": "" }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 43.96119063892024,
@@ -207,7 +196,6 @@
         "text": { "headline": "\u4e2d\u6b63\u5716\u66f8\u9928", "text": "" }
       },
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": {
           "lat": 56.84897198026975,
