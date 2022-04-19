@@ -4,7 +4,7 @@
     "call_to_action": true,
     "call_to_action_text": "",
     "language": "zh-tw",
-    "map_as_image": true,
+    "map_as_image": false,
     "map_background_color": "#333333",
     "map_subdomains": "abcd",
     "map_type": "zoomify",
@@ -12,7 +12,7 @@
       {
         "background": { "color": "#333333", "opacity": 100 },
         "date": "",
-        "location": { "line": false },
+        "location": { "line": true },
         "media": {
           "caption": "1972-1978 Campus Maps",
           "credit": "1972-1978 Campus Maps",
