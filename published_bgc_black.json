@@ -6,6 +6,7 @@
     "language": "zh-tw",
     "map_as_image": false,
     "show_lines": false,
+    "show_history_line":false,
     "map_background_color": "#333333",
     "map_subdomains": "abcd",
     "map_type": "zoomify",
@@ -21,8 +22,7 @@
         },
         "text": {
           "headline": "民國62-67年<br />政大校園地圖",
-          "text": "1973-1978 NCCU Campus Map",
-          "color": "#FFF"
+          "text": "1973-1978 NCCU Campus Map"
         },
         "type": "overview"
       },
