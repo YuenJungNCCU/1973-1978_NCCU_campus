@@ -13,7 +13,6 @@
     "slides": [
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": { "line": true },
         "media": {
           "caption": "1973-1978 NCCU Campus Map",
@@ -28,7 +27,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 40.38002840251183,
           "lon": -94.482421875,
@@ -46,7 +44,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 49.32512199104001,
           "lon": -75.5859375,
@@ -61,7 +58,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 38.41055825094609,
           "lon": -77.16796875,
@@ -76,7 +72,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 28.844673680771795,
           "lon": -36.5625,
@@ -91,7 +86,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 41.77131167976407,
           "lon": -70.83984375,
@@ -106,7 +100,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 28.536274512989916,
           "lon": -61.787109375,
@@ -121,7 +114,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 33.578014746143985,
           "lon": -69.9609375,
@@ -136,7 +128,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 36.31512514748051,
           "lon": -85.341796875,
@@ -154,7 +145,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 45.767522962149876,
           "lon": -86.484375,
@@ -169,7 +159,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 33.284619968887675,
           "lon": -29.794921874999996,
@@ -184,7 +173,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 43.96119063892024,
           "lon": -59.4140625,
@@ -199,7 +187,6 @@
       },
       {
         "background": { "color": "#333333", "opacity": 100 },
-        "date": "",
         "location": {
           "lat": 56.84897198026975,
           "lon": -22.412109375,
