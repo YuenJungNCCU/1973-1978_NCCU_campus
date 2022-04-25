@@ -1,221 +1,615 @@
 {
   "storymap": {
-    "attribution": "",
     "call_to_action": true,
     "call_to_action_text": "",
-    "language": "zh-tw",
     "map_as_image": false,
-    "map_background_color": "#333333",
-    "map_subdomains": "abcd",
+    "map_background_color": "",
     "map_type": "zoomify",
     "slides": [
       {
-        "background": { "color": "#333333", "opacity": 100 },
         "date": "",
         "location": { "line": true },
-        "media": {
-          "caption": "1972-1978 Campus Maps",
-          "credit": "1972-1978 Campus Maps",
-          "url": ""
-        },
         "text": {
-          "headline": "1972-1978<br />政大校園地圖<br />(李元簇校長任內)",
-          "text": "1972-1978 Campus Maps"
+          "headline": "民國62-67年<br />政大校園地圖",
+          "text": "1973-1978 NCCU Campus Map"
         },
         "type": "overview"
       },
       {
         "date": "",
         "location": {
-          "lat": 40.38002840251183,
           "line": true,
+          "lat": 40.38002840251183,
           "lon": -94.482421875,
           "zoom": 4
         },
         "media": {
-          "caption": "<p>社資中心全名為「社會科學資料中心」，其前身為天放樓（於1990年拆除，改建為資訊大樓），為加強學校資料文獻的保存，乃在山下校區東北角（即希賢新村）新徵購之土地上興建新一代的社資中心，並獲得國家科學委員會500萬元的補助。為使該工程合乎使用需要，特公開登報徵求設計圖樣，並聘請學者專家評審，由入選第一名的華泰建築師事務所承辦設計與監造。</p><p>1972年4月17日開工，歷時一年半載，於1973年10月2日完工，同月30日上午十時劉前校長季洪主持落成啟鑰儀式，並邀請新舊任校長暨各單位主管參加。新建大樓佔地335坪，總工程費約1,000萬元。內部除設閱覽室、期刊室、會議室、辦公室、視聽教室外，並設置教授研究室與研究生研究室，可容納700個座位。全樓裝設中央系統冷氣及升降電梯。規模宏偉，設備之完善，在國內均首屈一指。設備最完整的社資中四層大樓之落成，對本校研究與教學有莫大的裨益。</p><p>新建的社資中心，由於藏書資料迅速增加而不敷使用，1976年李元簇校長以「因圖書資料增加已不容納亟待擴建應需要」簽請教育部核准擴建。擴建部分為地上四層地下一層之大樓，總面積為7,048平方公尺，地上各層四周均設隔間獨用的研究室，供教授及研究生撰寫論文，1981年3月11日開標，由天工營造公司得標承包，5月4日開工，1982年12月擴建工程完工；1983年10間內部設備全部完工。1988年間，前棟外牆因地震受損而加整修並將原先瓷磚牆面改為洗石子。</p><p>經歷五十年來的變遷，2021年社資中心因應校園整體空間規劃遷出該棟大樓內辦公單位，此建築物完成階段性任務，走入歷史。</p>",
+          "caption": "<p>社資中心全名為「社會科學資料中心」，其前身為天放樓（於民國79年拆除，改建為資訊大樓），為加強學校資料文獻的保存，乃在山下校區東北角（希賢新村）新徵購之土地上興建新一代的社資中心，並獲得國家科學委員會500萬元的補助。為使該工程合乎使用需要，特公開登報徵求設計圖樣，並聘請學者專家評審，由入選第一名的華泰建築師事務所承辦設計與監造。</p><p>民國61年4月17日開工，歷時一年半載，於62年10月2日完工，同月30日上午十時劉前校長季洪主持落成啟鑰儀式，並邀請新舊任校長暨各單位主管參加。新建大樓佔地335坪，總工程費約1,000萬元。內部除設閱覽室、期刊室、會議室、辦公室、視聽教室外，並設置教授研究室與研究生研究室，可容納700個座位。全樓裝設中央系統冷氣及升降電梯。規模宏偉，設備之完善，在國內均首屈一指。設備最完整的社資中四層大樓之落成，對本校研究與教學有莫大的裨益。</p><p>新建的社資中心，由於藏書資料迅速增加而不敷使用，民國65年李元簇校長以「因圖書資料增加已不容納亟待擴建應需要」簽請教育部核准擴建。擴建部分為地上四層地下一層之大樓，總面積為7,048平方公尺，地上各層四周均設隔間獨用的研究室，供教授及研究生撰寫論文，70年3月11日開標，由天工營造公司得標承包，5月4日開工，71年12月擴建工程完工；72年10間內部設備全部完工。77年間，前棟外牆因地震受損而加整修並將原先瓷磚牆面改為洗石子。</p><p>經歷五十年來的變遷，民國110年社資中心因應校園整體空間規劃遷出該棟大樓內辦公單位，此建築物完成階段性任務，走入歷史。</p>",
           "credit": "完工日期:1973-10-20",
           "url": "/files/original/35639/ssic.jpg"
         },
         "text": {
-          "headline": "社會科學資料中心",
-          "text": ""
+          "headline": "社會科學資料中心"
         }
       },
       {
         "date": "",
         "location": {
-          "lat": 49.32512199104001,
+          "lat": 75.11540018683496,
           "line": true,
-          "lon": -75.5859375,
-          "zoom": 4
+          "lon": -55.118408203125,
+          "zoom": 7
         },
         "media": {
-          "caption": "<p>政治大學游泳館前身係露天游泳池，於1974年5月建築完成，10月30日由故前校長劉季洪主持啟鑰。佔地樓層面積316.56平方公尺，為21公尺寬50公尺長，兩側水深1.3公尺、中間水深1.5公尺，具自動換水過濾設備，切合教學及一般使用，建築工程費3,198,000元，水電工程505,000元，過濾櫃設備299,970元(總經費4,614,420元)。規劃設計者︰華泰建築師事務所-張昌華 設計與監造，協泰營造廠-侯萬蟾承造。</p><p>現今游泳館用地原為男生宿舍及籃球場。復校之初，該地用美援款項興建平房宿舍8棟，主要供海外僑生居住，沿河堤還建有籃球場兩座。</p><p>隨著歲月迭替，師生對溫水游泳池之需求與日俱增，1995年起，體育室籌劃整建工程。2005年6月16日開工，由建志營造公司負責工程，經費約45,000,000元。同年12月30日整建完成。游泳館現為鋼構屋頂之溫水游泳池，採安全度高且無污染之電能加熱方式加溫。除一樓仍做服務空間外，二樓為重量訓練室與多功能韻律教學教室。</p><p>游泳館毗鄰李園，花木扶疏，加上弧形建築的井塘樓，景觀資源豐富。配合新館啟用，打通南側防汛道路，周邊景緻更為怡人。</p>",
-          "credit": "落成日期:1973-10-20",
-          "url": "/files/original/35639/pool.jpg"
-        },
-        "text": { "headline": "游泳池", "text": "" }
-      },
-      {
-        "date": "",
-        "location": {
-          "lat": 38.41055825094609,
-          "line": true,
-          "lon": -77.16796875,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "<p>本校於木柵復校之時，現李園原為河道，由憩賢樓往社資中心必須跨越「思賢橋」始可到達。</p><p>民國64年，校內指南溪堤防經台北市政府修建完成，取代原有思賢橋下河道防洪功能，本校花費極少費用購買土方(每卡車50元)，填平思賢橋下河道，為本校新增千餘坪的新生地，初期做為綠地使用。民國77年，思賢橋下河道經填平為綠地後，該橋已無實際使用功能，為改善周邊環境與免於車輛爬坡，於七月中拆除思賢橋，使四維道路面更為寬闊順暢，周邊景觀煥然一新。</p>",
-          "credit": "完工日期:1973-10-29",
-          "url": "/files/original/35639/si_xian_bridge.jpg"
-        },
-        "text": { "headline": "思賢橋", "text": "" }
-      },
-      {
-        "date": "",
-        "location": {
-          "lat": 28.844673680771795,
-          "line": true,
-          "lon": -36.5625,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "<p>資料待提供福利大樓即現今位於麥側之樂活小舖。其前身為福利社舊平房，為鼓勵教師研究出版，並使學生購得廉價參考書籍，將福利社報廢之平房一棟改建為二樓，為全體教職員工生服務。</p><p>經陳其寬建築師設計，於1973年下半年拆除舊福利社，9月16日動工，工程總價2,166,246.5元，至1974年下半年完工。</p><p>當時新啟用的福利大樓一樓是理髮部、百貨部、文具部、冷飲部、食品部和洗衣部。二樓是出版部，購置大型複印機，提供複印講義、資料、筆記；另外還有打字機，提供廉價的打字服務等。在物價飆漲的年代，推廣福利設施，為政大師生的一大福音。</p>",
-          "credit": "完工日期:1974-09-02",
-          "url": "/files/original/35639/vivo_plaza.jpg"
-        },
-        "text": { "headline": "福利社", "text": "" }
-      },
-      {
-        "date": "",
-        "location": {
-          "lat": 41.77131167976407,
-          "line": true,
-          "lon": -70.83984375,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "<p>憩賢樓又稱「員生第一餐廳」，為改善學生校外用餐問題而興建，民國1973年9月動工，民國1975年5月落成，並於同年9月17日正式啟用，建造資金總計519萬元，是一棟地上四層、地下一層的現代化餐廳。各樓層空間寬敞，上下可容納兩千人進膳，物美價廉、頗受好評。</p><p>時至今日，憩賢樓一樓轉型為美食廣場，二樓為理查坊西餐廳，三樓為金色漁家中式餐廳，依舊是導生會、慶功宴、同學會等多種類型的聚餐地點。四樓目前規劃為單身女教職員宿舍。昔日憩賢樓左側還有一座通往社資中心的「思賢橋」，1974年完工，但因下端河道經整治而成綠地，功能喪失，為免於車輛爬坡及校園景觀整體考量，於民國1988年暑假期間拆除。</p>",
-          "credit": "完工日期:1975-05-05",
-          "url": "//uploads.knightlab.com/storymapjs/ff43ad1d3422be7f7cb44daa616680b1/nccumap/_images/\u61a9\u8ce2\u6a13.jpg"
-        },
-        "text": { "headline": "憩賢樓", "text": "" }
-      },
-      {
-        "date": "",
-        "location": {
-          "lat": 28.536274512989916,
-          "line": true,
-          "lon": -61.787109375,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "<p>學思樓即舊稱二字頭教室，復校之初為行政人員辦公室兼男教師單身宿舍「莒苑」所在地。莒苑為一樓平房、四合院式設計，中央庭院可蒔花種草。為政大在台復校第一批建築物。</p><p>1973年因學生人數成長快速，教室不敷使用，且為使住宿與學習環境應分離，故拆除莒苑，興建為4樓建築，由萬戶建築事務所設計，和成工程有限公司營造。</p><p>1976年整建竣工，先後為訓導處等行政單位辦公室和普通教室，其後為提倡軍訓教育，將軍訓設備、器材集中於此，成為軍訓課專用教室。歷30年歲月，校方編列預算重新整修。2005年1月整修完成，據《論語．為政》「學而不思則罔，思而不學則殆」之意，命名為學思樓。整修後之學思樓，除上課教室外，4樓供教育學院教師研習中心辦公之用。</p>",
-          "credit": "完工日期:1975-09",
-          "url": "/files/original/35639/xue_si_building.jpg"
-        },
-        "text": { "headline": "學思樓", "text": "" }
-      },
-      {
-        "date": "",
-        "location": {
-          "lat": 33.578014746143985,
-          "line": true,
-          "lon": -69.9609375,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "<p>莊敬一舍佔地1,365.46平方公尺，地上四層，地下一層。由萬戶建築師事務所-蘇澤 設計與監造，中行營造廠-陳捷豐 承造。莊敬大樓為四層建築，有寢室110間，可容納722人，設備完善。</p>",
-          "credit": "完工日期:1976-05-12",
-          "url": "/files/original/35639/chuang_ching_dorm_1.jpg"
-        },
-        "text": { "headline": "莊敬一舍", "text": "" }
-      },
-      {
-        "date": "",
-        "location": {
-          "lat": 36.31512514748051,
-          "line": true,
-          "lon": -85.341796875,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "<p>位於社會科學資料中心廣場東側，1976年新闢花園一座，建有弧形水泥花架，其中最具特色即爲「親愛精誠」校訓四字花壇。但因宿舍興建的需求，原親愛精誠花園處決定改建爲女生宿舍一棟。</p><p>1990年12月經校園規劃委員會及使用單位公開評定，新女生宿舍大樓計畫興建於井塘樓對面之「親愛精誠」綠地，命名爲「莊敬九舍」，建物樓高8層，1994年完工並啓用。</p>",
-          "credit": "完工日期:1976-05-19",
-          "url": "/files/original/35639/lawn.jpg"
+          "caption": "",
+          "credit": "<a href=\"https://friendsofcarolinemiller.org/\">Caroline Miller House</a>; Photo from <a href=\"https://vanishingsouthgeorgia.com/category/baxley-ga/\">Vanishing South Georgia by Brian Brown</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/historic-baxley-ga-caroline-miller-house-photograph-copyright-brian-brown-vanishing-south-georgia-usa-2017.jpg"
         },
         "text": {
-          "headline": "親愛精誠草坪",
-          "text": ""
+          "headline": "Baxley",
+          "text": "<span>Born in <a href=\"https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/ware-county\" target=\"_blank\" rel=\"nofollow\">Waycross</a>, Georgia, <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/caroline-miller-1903-1992\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/caroline-miller-1903-1992\">Caroline Miller</a> moved to <a href=\"https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/baxley\" target=\"_blank\" rel=\"nofollow\">Baxley</a> shortly after graduating high school and marrying her former English teacher. Overwhelmed by the workaday struggles of raising three young boys, she took her sons on long drives through the surrounding countryside, collecting in her notebook the <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/wiregrass-folklore\" target=\"_blank\" rel=\"nofollow\">folktales</a> and speech patterns that became the basis for her first novel, <i>Lamb in His Bosom</i>. Though Miller had no formal training, she was praised for her faithful depiction of <a href=\"https://www.georgiaencyclopedia.org/articles/geography-environment/wiregrass-georgia\" target=\"_blank\" rel=\"nofollow\">wiregrass</a> dialect and culture, and her best-selling novel won the <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/pulitzer-prizes-georgia\" target=\"_blank\" rel=\"nofollow\">Pulitzer Prize</a> <span>in 1934\u2014making Miller the first Georgian to win the award for fiction.</span></span>"
         }
       },
       {
         "date": "",
         "location": {
-          "lat": 45.767522962149876,
+          "lat": 78.42901122247586,
           "line": true,
-          "lon": -86.484375,
-          "zoom": 4
+          "lon": -63.017578125,
+          "zoom": 7
         },
         "media": {
-          "caption": "<p>井塘樓原名為研究所大樓，斥資12,886,212元建造。</p><p>整修工程發包價約1,414萬元，將依照教育學院之需求，重新規劃建築空間。整修重點尚包括室內空調設備、屋頂防漏等項目。在外觀方面，教育學院希望在不破壞原建築物協調感的前提之下，藉由外圍鋁窗換新，讓井塘樓呈現新氣象。井塘樓的後方是河堤一隅，安靜的聽得見林子裡樹葉落下的聲音。而左側延伸至游泳池與憩賢樓之間，是一整片可供休憩的草地，花木扶疏，林蔭清涼。空間重新設計運用之後的井塘樓，除了花香鳥鳴，也將再度注入政大師生的笑語。</p>",
-          "credit": "完工日期:1976-07-22",
-          "url": "/files/original/35639/jing_tang_building.jpg"
+          "caption": "",
+          "credit": "<a href=\"https://www.gcsu.edu/andalusia\">Andalusia Farm</a>; Photo from <a href=\"https://www.gcsu.edu/andalusia\">Georgia College and State University</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/southern-literary-trail/_images/Screen Shot 2019-03-14 at 10.25.44 AM.jpg"
         },
-        "text": { "headline": "井塘樓", "text": "" }
+        "text": {
+          "headline": "Milledgeville",
+          "text": "<span><p>Andalusia Farm in <a href=\"https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/milledgeville\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/milledgeville\">Milledgeville</a> is widely known both as the place where <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/flannery-oconnor-1925-1964\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/flannery-oconnor-1925-1964\">Flannery O'Connor</a> penned her most important works\u2014<i><a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/wise-blood\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/wise-blood\">Wise Blood</a></i> and <i><a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/short-stories-flannery-oconnor\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/short-stories-flannery-oconnor\">A Good Man is Hard to Find</a></i> among them\u2014and as the home of her prized collection of peafowl. On the farm, often with only her mother and beloved \u201cpeachickens\u201d for company, O'Connor perfected the dark humor and peculiar characters that came to define her work. Commenting on the prevalence of the grotesque in her fiction, O'Connor noted: \u201cWhenever I\u2019m asked why Southern writers particularly have a penchant for writing about freaks, I say it is because we are still able to recognize one.\"</p></span>"
+        }
       },
       {
         "date": "",
         "location": {
-          "lat": 33.284619968887675,
+          "lat": 78.8488210819389,
           "line": true,
-          "lon": -29.794921874999996,
-          "zoom": 4
+          "lon": -64.4677734375,
+          "zoom": 7
         },
         "media": {
-          "caption": "<p>集英樓建於1976年7月，位於新聞館後方，為地上三層、地下一層之建築物，主要提供本校師生解決用餐的問題，當時稱為「第二餐廳」。</p><p>華泰建築師事務所張昌華設計與監造，和成工程公司林清最承造。集英樓於1977年11月完工，通過驗收之後於隔年2月底開始營業，地下室作廚房、地上樓層為餐廳，還有舉辦演講、會議、始業式等活動之用途。後集英樓一樓改為員生消費合作社、二樓為政大書城、三樓為中小企業創新育成中心第二培育區，計有七間廠商培育室，另有法律服務社社團辦公室，並提供免費諮詢；也是教職員社團──國劇社、學佛社的活動場地。</p><p>地下室曾經是社團活動場地，後規劃為總務處文具物品倉庫。集英樓右側的「醉夢溪畔」露天咖啡座，是一處伴隨微風、綠蔭並享受「偷得浮生半日閒」的好地方。</p>",
-          "credit": "完工日期:1977-11-13",
-          "url": "/files/original/35639/ji_ying_building.jpg"
+          "caption": "",
+          "credit": "Alice Walker Childhood Home; Photo from <a href=\"https://www.exploregeorgia.org/eatonton/arts-culture/cultural-trails-tours/alice-walker-driving-tour\">Explore Georgia</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Alice-HW11.jpg"
         },
-        "text": { "headline": "集英樓", "text": "" }
+        "text": {
+          "headline": "Eatonton",
+          "text": "<span>Just a few miles from <a href=\"https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/milledgeville\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/milledgeville\">Milledgeville</a>, <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/alice-walker-b-1944\" target=\"_blank\" rel=\"nofollow\">Alice Walker</a> was born the daughter of <a href=\"https://www.georgiaencyclopedia.org/articles/history-archaeology/sharecropping\" target=\"_blank\" rel=\"nofollow\">sharecroppers</a> and the youngest of eight siblings. A precocious child, Walker nurtured a passion for reading and writing from an early age. She left <a href=\"https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/eatonton\" target=\"_blank\" rel=\"nofollow\">Eatonton</a> at eighteen, studying first at <a href=\"https://www.georgiaencyclopedia.org/articles/education/spelman-college\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/education/spelman-college\">Spelman College</a> in Atlanta and then at Sarah Lawrence in New York. Though she eventually settled in California, Walker's creative roots remained in the rural South. Her best-known novel, the <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/pulitzer-prizes-georgia\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/pulitzer-prizes-georgia\">Pulitzer Prize</a>\u2013winning <i><a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/color-purple\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/color-purple\">The Color Purple</a></i> <span>(1983), portrays economic hardship and generational violence in a small Georgia town not unlike Eatonton. An accomplished poet, activist, and sometimes controversial figure, Walker is also credited with restoring the literary legacy of another southern writer\u2014Zora Neale Hurston.</span></span>"
+        }
       },
       {
         "date": "",
         "location": {
-          "lat": 43.96119063892024,
+          "lat": 81.63574720221548,
           "line": true,
-          "lon": -59.4140625,
-          "zoom": 4
+          "lon": -65.401611328125,
+          "zoom": 7
         },
         "media": {
-          "caption": "<p>中正圖書館是政大的總圖書館，政大在民國四十三年於台北木柵復校，當時的總圖書室位於理學院志希樓現址，各系所都有圖書室供學生使用圖書資料，如新聞館有新聞系圖書室、大勇樓有法律系圖書室、大仁樓則附設文學院圖書室，而當時借還書屬於閉架式服務，早期的校友必須依照索碼書卡填單才能借書。</p><p>前校長李元簇有鑑於圖書資料過於分散，為提供師生更良好的圖書服務環境，決定新建圖書館大樓，彙整各系所分散的圖書資料。民國六十四年本校首任校長蔣中正先生逝世，學生代聯會及各社團發起捐款獻像運動，並籌建「中正圖書館」。李前校長於民國六十五年大刀闊斧拆除了三棟女生宿舍、兩棟男生宿舍、一棟兩層樓高的餐廳與網球場，這棟萬壽形建築的「中正圖書館」旋即在隔年校慶落成啟用，當時建築面積和藏書量均號稱亞洲第一，而這段風光的歷史似乎隨著歲月而消逝。</p><p>龐大的藏書量促成籌設圖書分館的需要，近年相繼設置傳圖、商圖和綜圖等圖書分館，圖書館閱覽組主任莊清輝提起政大圖書館的發展歷史，打趣的說，圖書館藏書是「分久必合，合久必分」。</p><p>現貌的中正圖書館也許給學生老舊的映象，校園規劃委員會已開始討論總圖大樓的整建規劃，內部空間規劃亦將重新規劃，也許數年後，中正圖書館會讓你覺得煥然一新。</p>",
-          "credit": "完工日期:1978-01-21",
-          "url": "/files/original/35639/main_lib.jpg"
+          "caption": "",
+          "credit": "<a href=\"https://www.piedmont.edu/lillian-smith-center\">Lillian E. Smith Center</a>; Photo from <a href=\"https://www.piedmont.edu\">Piedmont College</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/1536352794Peeler-and-Esther-Cottages-exteriorsappended-1appended-crop-660x319-5b92eb4062f21-resized.jpg"
         },
-        "text": { "headline": "中正圖書館", "text": "" }
+        "text": {
+          "headline": "Clayton",
+          "text": "<span><p>When <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/lillian-smith-1897-1966\" target=\"_blank\" rel=\"nofollow\">Lillian Smith</a>'s <i><a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/strange-fruit\" target=\"_blank\" rel=\"nofollow\">Strange Fruit</a></i> was published in 1944, the book sparked controversy nationwide and condemnation in her home state. The novel, which features an interracial relationship, was banned by both the state of Massachusetts and the U.S. Post Office, and denounced by Georgia governor <a href=\"https://www.georgiaencyclopedia.org/articles/government-politics/eugene-talmadge-1884-1946\" target=\"_blank\" rel=\"nofollow\">Eugene Talmadge</a> as a \"literary corncob.\" Snubbed by her neighbors, Smith continued to speak out against segregation and social inequity. From her home atop Old Screamer Mountain in <a href=\"https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/rabun-county\" target=\"_blank\" rel=\"nofollow\">Clayton</a>, Smith\u2014along with her partner Paula Snelling\u2014ran a girls camp, published a literary magazine, and corresponded with <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/martin-luther-king-jr-1929-1968\" target=\"_blank\" rel=\"nofollow\">Martin Luther King Jr</a>. Today, her home is the Lillian E. Smith Center, an educational center and artists retreat on the campus of <a href=\"https://www.georgiaencyclopedia.org/articles/education/piedmont-college\" target=\"_blank\" rel=\"nofollow\">Piedmont College</a>.</p></span>"
+        }
       },
       {
         "date": "",
         "location": {
-          "lat": 56.84897198026975,
+          "lat": 81.65011814408747,
           "line": true,
-          "lon": -22.412109375,
-          "zoom": 4
+          "lon": -70.15869140625,
+          "zoom": 7
         },
         "media": {
-          "caption": "<p>體育館為學生活絡筋骨的空間，其興建過程一波三折，1976年起總務處即會同學生事務處（當時稱訓導處）規劃體育館的興建事宜。1977年8月，由當時的教育部長、前校長李元簇主持開工典禮。</p><p>開工後發現基地土質過差，經建築師研究加深基礎以保結構安全，並辦理變更定案，直到當年9月底才正式動工。已陪政大師生走過半世紀的體育館，在當時設施完備，設有籃球場四個、桌球室、韻律室、柔道室、重量訓練室、體操館、劍道室、跆拳室、網球場、羽球場、排球場等空間。與學生關係更為密切的是，體育館也是進行新生訓練與畢業典禮的地點。曾有師長笑言，大學四年時光匆匆即逝，當前腳才步出禮堂（指新生訓練）後，轉眼後腳就要參加畢業典禮了呢！</p>",
-          "credit": "完工日期:1980-02-28",
-          "url": "//files/original/35639/gym.jpg"
+          "caption": "",
+          "credit": "<a href=\"https://reecefarm.org/\">Reece Heritage Farm</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/img_5577.jpg"
         },
-        "text": { "headline": "體育館", "text": "" }
+        "text": {
+          "headline": "Blairsville",
+          "text": "<span>Raised near the foothills of <a href=\"https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/union-county\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/union-county\">Blood Mountain</a>, <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/byron-herbert-reece-1917-1958\" target=\"_blank\" rel=\"nofollow\">Byron Herbert Reece</a>'s early life was so isolated that it's rumored he didn't see a car until he was eight or twelve years old. A bright but solitary child, \"Hub\" Reece published his first poem in the local paper while he was still in high school and studied briefly at <a href=\"https://www.georgiaencyclopedia.org/articles/education/young-harris-college\" target=\"_blank\" rel=\"nofollow\">Young Harris College</a> before returning to work on his family's farm. There, he toiled by day and wrote by night, producing <i>Ballad of the Bones</i><span>, a collection of poetry shaped by the cadences of scripture and the rhythms of farm life. Though its publication brought literary acclaim, and Reece went on to write three more volumes of poetry and two novels, his traditional, rhyming ballads fell out of favor in a decade dominated by the Beats.</span></span>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 79.64184953413432,
+          "line": true,
+          "lon": -73.377685546875,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=\"http://www.atlantahistorycenter.com/explore/destinations/margaret-mitchell-house\">Margaret Mitchell House</a>; Photo from <a href=\"http://www.atlantahistorycenter.com\">Atlanta History Center</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/AHC_MMH_Exterior_Entrance.jpg"
+        },
+        "text": {
+          "headline": "Atlanta",
+          "text": "<span>During her four years on the staff of the <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/atlanta-journal-constitution\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/atlanta-journal-constitution\">Atlanta Journal</a> Sunday Magazine, <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/margaret-mitchell-1900-1949\" target=\"_blank\" rel=\"nofollow\">Margaret Mitchell</a> wrote book reviews, profiles, and the occasional advice column until complications from an ankle injury ended her career as a journalist. Using an old sewing table as a desk, she then set to work on the manuscript that would become <i><a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/gone-wind-novel\" target=\"_blank\" rel=\"nofollow\">Gone With the Wind</a></i>, the single best-selling novel of the twentieth century. Easy to read, but sometimes hard to stomach, the book made an indelible mark on popular culture, for better or worse. Its <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/gone-wind-film\" target=\"_blank\" rel=\"nofollow\">film</a> adaptation was no less successful, earning rave reviews and eight academy awards\u2014a record that stood for two decades. The film\u2019s lavish premiere at the Loew\u2019s Grand Theater was an event unlike any in the city\u2019s history, and the reason the <a href=\"https://www.georgiaencyclopedia.org/articles/sports-outdoor-recreation/olympic-games-1996\" target=\"_blank\" rel=\"nofollow\">Olympics</a> are only the second-biggest thing ever to happen in <a href=\"https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/atlanta\" target=\"_blank\" rel=\"nofollow\">Atlanta</a><span>.</span></span>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 79.64184953413432,
+          "line": true,
+          "lon": -73.377685546875,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=\"https://wrensnest.org/\">The Wren's Nest</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/WNest.jpg"
+        },
+        "text": {
+          "headline": "Atlanta",
+          "text": "<span><p>A working journalist for most of his professional life, <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/joel-chandler-harris-1845-1908\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/joel-chandler-harris-1845-1908\">Joel Chandler Harris</a> spent twenty-four years as a columnist and editor at the <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/atlanta-journal-constitution\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/atlanta-journal-constitution\">Atlanta Constitution</a>. But it was his <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/uncle-remus-tales\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/uncle-remus-tales\">Uncle Remus</a> tales that ensured his literary fame. Based on stories told by former <a href=\"https://www.georgiaencyclopedia.org/articles/history-archaeology/slavery-antebellum-georgia\" target=\"_blank\" rel=\"nofollow\">slaves</a>, the tales found a wide audience in the late nineteenth and early twentieth centuries when <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/folklife-overview\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/folklife-overview\">folklore</a> was a publishing phenomenon. Some contemporary critics have been less sympathetic, observing that Harris profited handsomely from African American <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/storytelling-traditions\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/storytelling-traditions\">storytelling</a>, while others credit him for preserving oral traditions that might have otherwise been lost. The Wren\u2019s Nest, where Harris made his home, is among the finest examples of early Victorian Queen Anne residential <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/early-victorian-architecture-overview\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/early-victorian-architecture-overview\">architecture</a> in the city and now houses an educational center that features innovative programming and serves diverse audiences.&nbsp;</p></span>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 78.82968223791016,
+          "line": true,
+          "lon": -76.409912109375,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "The Little Manse; Photo from <a href=\"https://vanishingnorthgeorgia.com/category/moreland-ga/\">Vanishing North Georgia, Brian Brown</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/historic-moreland-ga-erskine-caldwell-birthplace-museum-the-little-manse-photograph-copyright-brian-brown-vanishing-north-georgia-usa-2017.jpg"
+        },
+        "text": {
+          "headline": "Moreland",
+          "text": "<span><a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/erskine-caldwell-1903-1987\" target=\"_blank\" rel=\"nofollow\">Erskine Caldwell</a> had an itinerant youth thanks to his circuit-riding father, a minister in the Associate Reformed Presbyterian Church. But the <a href=\"https://www.georgiaencyclopedia.org/articles/history-archaeology/poor-whites\" target=\"_blank\" rel=\"nofollow\">poverty</a> he witnessed as a young man in Georgia left its stamp on both Caldwell and his fiction, particularly his best-selling masterwork, &nbsp;<i><a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/tobacco-road-and-gods-little-acre\" target=\"_blank\" rel=\"nofollow\">Tobacco Road</a></i>. For his part, Caldwell was unequivocal when describing his relationship to the state, telling infamous Governor <a href=\"https://www.georgiaencyclopedia.org/articles/government-politics/lester-maddox-1915-2003\" target=\"_blank\" rel=\"nofollow\">Lester Maddox</a><span>, \u201cI like to think I\u2019m as much a Georgian as Brer Rabbit.\u201d</span></span>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 76.96033358827414,
+          "line": true,
+          "lon": -78.046875,
+          "zoom": 6
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=\"http://www.mccullerscenter.org/\">Carson McCullers Center for Writers and Musicians</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/DSC_0170_cropped.JPG"
+        },
+        "text": {
+          "headline": "Columbus",
+          "text": "<span><a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/carson-mccullers-1917-1967\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.georgiaencyclopedia.org/articles/arts-culture/carson-mccullers-1917-1967\">Carson McCullers</a> seldom had kind words for folks back home in her native <a href=\"https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/columbus\" target=\"_blank\" rel=\"nofollow\">Columbus</a> and, for many years, the feeling was mutual. Columbus society was scandalized by the free-spirited McCullers whose <a href=\"https://www.georgiaencyclopedia.org/articles/arts-culture/heart-lonely-hunter\" target=\"_blank\" rel=\"nofollow\">work</a> explored complex themes of sexuality, voyeurism, and obsession. But whatever enmity may have existed between the town and its prodigal daughter has long since passed. In 2017, Columbus hosted a series of readings and events to celebrate the centenary of McCullers\u2019 birth, and <a href=\"https://www.georgiaencyclopedia.org/articles/education/columbus-state-university\" target=\"_blank\" rel=\"nofollow\">Columbus State Universit</a><span><a href=\"https://www.georgiaencyclopedia.org/articles/education/columbus-state-university\" target=\"_blank\" rel=\"nofollow\">y</a> now operates the remarkable Carson McCullers Center for Writers and Musicians to preserve her legacy and foster the talents of young creatives.</span></span>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 76.89074547194512,
+          "line": true,
+          "lon": -84.759521484375,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=https://www.tuskegee.edu/libraries>Tuskegee University Library</a> ; Photo from <a href=\"https://en.wikipedia.org/wiki/Tuskegee_University#/media/File:Hollis_Burke_Frissell_Library.jpg\">Jcooper3105n</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Hollis_Burke_Frissell_Library.jpg"
+        },
+        "text": {
+          "headline": "Tuskegee",
+          "text": "<p><span><a href=\"http://www.encyclopediaofalabama.org/article/h-1867\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1867\">Albert Murray</a> and Ralph Ellison first met at the library on the campus of the Tuskegee Normal and Industrial Institute (later <a href=\"http://www.encyclopediaofalabama.org/article/h-1583\" target=\"_blank\" rel=\"nofollow\">Tuskegee University</a>). The year was 1935. Murray was a freshman; Ellison was a junior, with a job at the circulation desk. After WWII, they reconnected in New York City because of their Tuskegee background. Murray was attending graduate school in the city, and Ellison, who lived there, began sharing passages of a novel he was working on, <em>Invisible Man</em>. Their mutual passion for ideas, words, and music fueled a lifelong friendship and inspired writings that challenged readers' understanding of identity. The <a href=\"http://www.encyclopediaofalabama.org/article/h-3993\" target=\"_blank\" rel=\"nofollow\">campus</a> that nurtured these passions, and where Murray also taught literature and composition before the war, retains many elements of their time there, including the famed statue, \u201cLifting the Veil of Ignorance.\u201d</span></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 76.8383150636376,
+          "line": true,
+          "lon": -89.769287109375,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=https://www.thefitzgeraldmuseum.org/>The Scott & Zelda Fitzgerald Museum</a>; Photo from <a href=https://commons.wikimedia.org/wiki/File:Fitzgerald_Museum_Montgomery_June_2009.jpg\">Chris Pruitt</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Fitzgerald_Museum_Montgomery_June_2009.jpg"
+        },
+        "text": {
+          "headline": "Montgomery",
+          "text": "<p><span>The city of <a href=\"http://www.encyclopediaofalabama.org/article/h-1833\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1833\">Montgomery</a> was <a href=\"http://www.encyclopediaofalabama.org/article/h-1120\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1120\">Zelda Sayre</a>\u2019s playground. The storied belle entertained herself on the marble stairs of the state capitol with her friends <a href=\"http://www.encyclopediaofalabama.org/article/h-2457\" target=\"_blank\" rel=\"nofollow\">Sara Haardt</a> and <a href=\"http://www.encyclopediaofalabama.org/article/h-1432\" target=\"_blank\" rel=\"nofollow\">Tallulah Bankhead</a>. She skated down its hilly streets, became a champion swimmer and diver in its pools, and daydreamed at its historic sites. On a summer evening in 1918, F. Scott Fitzgerald, an aspiring author stationed at a military training <a href=\"http://www.encyclopediaofalabama.org/article/h-3733\" target=\"_blank\" rel=\"nofollow\">camp</a> in town, first caught sight of her performing a solo ballet dance at a country club party. Zelda and Scott married and became icons of the Jazz Age. They gained notoriety in New York City and Europe, but Alabama remained a part of their literary works. The last home the two would share as husband and wife was in Montgomery. It was there that they wrote portions of their respective novels, <em>Save Me The Waltz</em> and <em>Tender Is The Night</em>. The residence is now a <a href=\"http://www.encyclopediaofalabama.org/article/h-3620\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-3620\">museum</a> dedicated to their legacy.</span></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 80.92149429125023,
+          "line": true,
+          "lon": -96.51489257812499,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "Downtown Hartselle; Photo from <a href=https://en.wikipedia.org/wiki/Hartselle,_Alabama#/media/File:100s_Main_St_Hartselle_Feb_2012_01.jpg\">Chris Pruitt</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/100s_Main_St_Hartselle_Feb_2012_01.jpg"
+        },
+        "text": {
+          "headline": "Hartselle",
+          "text": "<p><span><a href=\"http://www.encyclopediaofalabama.org/article/h-1547\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1547\">William \u201cBill\u201d Bradford Huie</a>, a sixth-generation Alabamian, was born in <a href=\" http://www.encyclopediaofalabama.org/article/h-3092\" target=\"_blank\" rel=\"nofollow\">Hartselle</a> and died, seventy-six years later, less than fifty miles down the road in <a href=\"http://www.encyclopediaofalabama.org/article/h-2531\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-2531\">Guntersville</a>. Parts of Huie\u2019s life were typical of a white, high school valedictorian of his generation: graduating from the <a href=\"http://www.encyclopediaofalabama.org/article/h-1678\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1678\">University of Alabama</a>, working in <a href=\"http://www.encyclopediaofalabama.org/article/h-1421\" target=\"_blank\" rel=\"nofollow\">Birmingham</a>, and serving in the military during <a href=\"http://www.encyclopediaofalabama.org/article/h-1348\" target=\"_blank\" rel=\"nofollow\">WWII</a>. His highly autobiographical first novel, <em>Mud on the Stars</em>, depicts those years. Less typical were his honest writings about ordinary people, race relations, violence, sex, war, and injustice. Huie wrote twenty-three books, seven of which were adapted as movies. His practice of \u201ccheckbook journalism\u201d earned him scorn from his professional colleagues. His coverage of the civil rights movement had people burning crosses in his yard. Huie\u2019s books sold more than 30 million copies, and yet at the time of his death, none of them were still in print. The public library in Hartselle\u2019s historic downtown area, which was renamed in Huie\u2019s honor, has an exhibit on the writer\u2019s life and works.</span></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 77.16936688599345,
+          "line": true,
+          "lon": -104.87548828125,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "Bluff Hall; Photo from <a href=http://www.marengocountyhistoricalsociety.com/bluff-hall/\">Marengo County Historical Society</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/IMG_2778.jpg"
+        },
+        "text": {
+          "headline": "Demopolis",
+          "text": "<p>Lillian Hellman\u2019s childhood visits with her maternal grandparents in <a href=\"http://www.encyclopediaofalabama.org/article/h-3097\" target=\"_blank\" rel=\"nofollow\">Demopolis</a>, a town on the chalk bluffs of the Tombigbee River, influenced one of her more enduring plays. However, her portrayal of family relations driven by avarice did not endear Hellman to her Alabama kin. The Hubbard characters in her plays <em><a href=\"http://www.encyclopediaofalabama.org/article/h-3341\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-3341\">The Little Foxes</a>&nbsp;</em>and <em>Another Part of the Forest</em> were shaped by her impression of affluent relatives who helped build the town, including establishing a bank, which still stands. And the local architectural gems <a href=\"http://www.encyclopediaofalabama.org/article/h-4036\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-4036\">Bluff Hall</a> and&nbsp;<a href=\"http://www.encyclopediaofalabama.org/article/h-4006\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-4006\">Lyon Hall</a>&nbsp;are presumed to have inspired the descriptions of Birdie Hubbard\u2019s beloved plantation home, Lionnet. Hellman also wrote the screenplay for the film adaptation of <em>The Little Foxes</em>, which was directed by William Wyler. Wyler\u2019s wife, actress Margaret Tallichet, was also from a family with roots in Demopolis.</p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 74.61344527005673,
+          "line": true,
+          "lon": -99.5361328125,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=https://www.monroecountymuseum.org/old-courthouse-museum>Old Courthouse Museum</a>; Photo from <a href=https://www.monroecountymuseum.org/\">Monroe County Museum</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/17435980_1544482185584441_2896288221927981767_o.jpg"
+        },
+        "text": {
+          "headline": "Monroeville",
+          "text": "<p><span>Maycomb, the fictional setting for <a href=\"http://www.encyclopediaofalabama.org/article/h-1126\" target=\"_blank\" rel=\"nofollow\">Harper Lee</a>\u2019s beloved novel <em><a href=\"http://www.encyclopediaofalabama.org/article/h-1140\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1140\">To Kill A Mockingbird</a></em>, was shaped by her hometown, <a href=\"http://www.encyclopediaofalabama.org/article/h-2162\" target=\"_blank\" rel=\"nofollow\">Monroeville</a>\u2014a sleepy southern community without paved roads that was populated with residents who knew one another\u2019s business. Her family lived a few blocks from the county courthouse, where she watched her lawyer father try cases. Its courtroom was reproduced as a set for the movie based on Lee\u2019s novel, and a theatrical production based on <em>To Kill A Mockingbird</em> is performed each spring at the courthouse square. The cemetery where Lee is buried is less than a mile from the <a href=\"http://www.encyclopediaofalabama.org/article/h-3066\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-3066\">courthouse museum</a> that preserves the space that has inspired millions of readers. (Monroeville is also the hometown of <a href=\"http://www.encyclopediaofalabama.org/article/s-146\" target=\"_blank\" rel=\"nofollow\">Pulitzer Prize</a><u>\u2013</u>winning journalist <a href=\"http://www.encyclopediaofalabama.org/article/h-2487\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-2487\">Cynthia Tucker</a> and the birthplace of bestselling novelist <a href=\"http://www.encyclopediaofalabama.org/article/h-3384\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-3384\">Mark Childress</a>.)</span></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 74.61636000164613,
+          "line": true,
+          "lon": -99.5361328125,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=https://www.monroecountymuseum.org/>Monroe County Museum</a>; Photo from <a href=https://en.wikipedia.org/wiki/Old_Monroe_County_Courthouse#/media/File:Alabama-Monroe_County_Courthouse_retired.jpg\"> Wmr36104 </a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Alabama-Monroe_County_Courthouse_retired.jpg"
+        },
+        "text": {
+          "headline": "Monroeville",
+          "text": "<p><span>During his childhood, <a href=\"http://www.encyclopediaofalabama.org/article/h-1115\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1115\">Truman Capote</a> was often left in the care of older relatives in <a href=\"http://www.encyclopediaofalabama.org/article/h-2162\" target=\"_blank\" rel=\"nofollow\">Monroeville</a>. As a result, he was <a href=\"http://www.encyclopediaofalabama.org/article/h-1126\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1126\">Harper Lee</a>\u2019s next-door neighbor during the 1930s. The two budding writers shared secrets in a chinaberry tree refuge and relied upon their youthful imaginations for entertainment in depression-era Monroeville. The tomboy character of Idabel in<em> Other Voices, Other Rooms</em>, Capote's first novel,<em> </em>is modeled after Lee; Dill in Lee\u2019s <em><a href=\"http://www.encyclopediaofalabama.org/article/h-1140\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1140\">To Kill A Mockingbird</a></em> was modeled after him. Two of his autobiographical short stories, \u201cA Christmas Memory\u201d and \u201cThe Thanksgiving Visitor,\u201d drew upon his life in the town. The place where November skies announced \u201cit\u2019s fruitcake weather,\u201d honors the author with a permanent exhibit in the <a href=\"http://www.encyclopediaofalabama.org/article/h-3066\" target=\"_blank\" rel=\"nofollow\">county courthouse</a>. There is also a historical marker at the lot where the home of his Faulk cousins once stood.</span></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 72.43221890460605,
+          "line": true,
+          "lon": -106.907958984375,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=https://downtownparksconservancy.org/bienville-square/>Bienville Square</a>; Photo from <a href=https://en.wikipedia.org/wiki/Bienville_Square#/media/File:Bienville.jpg\"> Altairisfar </a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/1609px-Bienville.jpg"
+        },
+        "text": {
+          "headline": "Mobile",
+          "text": "<p><span>\u201cWhen all else fails, throw a party!\u201d Thus prescribed <a href=\"http://www.encyclopediaofalabama.org/article/h-2557\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-2557\">Eugene Walter</a>, <a href=\"http://www.encyclopediaofalabama.org/article/h-1794\" target=\"_blank\" rel=\"nofollow\">Mobile</a>\u2019s famed raconteur, who entertained friends and strangers with southern wit and excellent food. The Mobile of his youth was a multicultural port city that featured hectic banana docks, fresh bay oysters, wide front porches, <a href=\"http://www.encyclopediaofalabama.org/article/h-1437\" target=\"_blank\" rel=\"nofollow\">Mardi Gras</a> festivities, and<a href=\"http://www.encyclopediaofalabama.org/article/h-1437\" target=\"\" rel=\"\"> </a>live oaks on Bienville Square. In <em>The Untidy Pilgrim</em>, he called it \u201csweet lunacy\u2019s county seat.\u201d Mobile's \u201csouth of the salt line\u201d attitude imbues his works. On the evening before his funeral, Walter\u2019s friends gathered at the <a href=\"http://www.encyclopediaofalabama.org/article/h-3499\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-3499\">Cathedral-Basilica of the Immaculate Conception</a> to paint his coffin. They buried him at <a href=\"http://www.encyclopediaofalabama.org/article/h-1039\" target=\"_blank\" rel=\"nofollow\">Church Street Graveyard</a>, next to the <a href=\"http://www.encyclopediaofalabama.org/article/h-2923\" target=\"_blank\" rel=\"nofollow\">man</a> who revived Mobile\u2019s Mardi Gras celebrations.</span></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 72.43553464712416,
+          "line": true,
+          "lon": -106.9189453125,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "Waterman Globe; Photo from <a href=https://www.southalabama.edu/departments/mitchellcenter/mitchellcenter/globe.html\"> University of South Alabama</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/globegrandlobby1.jpg"
+        },
+        "text": {
+          "headline": "Mobile",
+          "text": "<p><span>Mobile native <a href=\" http://www.encyclopediaofalabama.org/article/h-3411\" target=\"_blank\" rel=\"nofollow\">William March</a>\u2019s first novel, <em>Company K</em>, may not be set in Alabama, but the <a href=\" http://www.encyclopediaofalabama.org/article/h-1545\" target=\"_blank\" rel=\"nofollow\">WWI</a> story first took form in the letters he wrote to family members in <a href=\"http://www.encyclopediaofalabama.org/article/h-1794\" target=\"_blank\" rel=\"nofollow\">Mobile</a>. And Alabama is the setting, in the form of the fictionalized Pearl County and Reedyville, of four of his novels and many of his short stories. His last book, <em>The Bad Seed</em>, which was finished a month before he died in New Orleans, has a distinct Mobile influence. The novel\u2019s main characters, the Penmarks, lived in a place that is recognizable as the Antoinette Apartments on Government Street. March\u2019s career as a businessman was spent with the <a href=\"http://www.encyclopediaofalabama.org/article/h-1550\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1550\">Waterman Shipping Corporation</a>, which was established in Mobile in 1919, the year March returned home from the war. The company\u2019s headquarters on St. Joseph Street featured a twelve-foot, rotating globe and multistory murals in its lobby. The murals remain in their original location; the globe now resides in the Mitchell Center at the <a href=\"http://www.encyclopediaofalabama.org/article/h-1646\" target=\"_blank\" rel=\"nofollow\">University of South Alabama</a>.</span></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 72.43221890460605,
+          "line": true,
+          "lon": -106.9189453125,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "Africatown Cemetery; Photo from <a href=https://en.wikipedia.org/wiki/Africatown#/media/File:Africatown_Cemetery.jpg\"> Leigh T Harrell</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/1626px-Africatown_Cemetery.jpg"
+        },
+        "text": {
+          "headline": "Mobile",
+          "text": "<p><span><a href=\"http://www.encyclopediaofalabama.org/article/h-1867\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1867\">Albert Murray</a>\u2019s first published novel, <em>Train Whistle Guitar</em>, transported readers to the world of his childhood, <a href=\"http://www.encyclopediaofalabama.org/article/h-1794\" target=\"_blank\" rel=\"nofollow\">Mobile</a>\u2019s Magazine Point community in the 1920s. It was in Mobile that \u201ctell-me-tale times\u201d connected him to <a href=\"http://www.encyclopediaofalabama.org/article/h-1402\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/article/h-1402\">Africatown</a> and the slave ship <em>Clotilde</em>, and folklore about the likes of <a href=\"http://www.encyclopediaofalabama.org/article/h-1258\" target=\"_blank\" rel=\"nofollow\">Railroad Bill</a>. Murray\u2019s Mobile, his briar patch, had history and tradition, <a href=\"http://www.encyclopediaofalabama.org/article/h-3196\" target=\"_blank\" rel=\"nofollow\">docks</a> and <a href=\"http://www.encyclopediaofalabama.org/article/h-2390\" target=\"_blank\" rel=\"nofollow\">trains</a>, and jazz and blues that connected the place to the world at large. An essayist and man of letters, the author of <em>The Omni-American</em>s composed three more novels featuring the protagonist Scooter, a schoolboy from Gasoline Point, who had a tall chinaberry tree in his front yard that gave him a view of the world and rooted him in Alabama.</span></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 79.40008452319313,
+          "line": true,
+          "lon": -110.45654296875,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "Tennessee Williams Home and Welcome Center; Photo from <a href=https://www.southernliterarytrail.org/trail/tennessee-williams-home-welcome-center>Southern Literary Trail</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/IMG_2970.jpg"
+        },
+        "text": {
+          "headline": "Columbus",
+          "text": "<p><span><a href=\"https://mississippiencyclopedia.org/entries/tennessee-williams/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/tennessee-williams/\">Thomas \u201cTennessee\u201d Lanier Williams\nIII</a></span><span>\u2014one of the\ngreatest playwrights in American history\u2014was born in Columbus. He was the\nsecond-born child of Edwina Dakin, the daughter of Rev. Walter Dakin, and\nCornelius Williams, a traveling salesman and a heavy drinker and gambler. When Cornelius\nwas away from home, which was frequently, Edwina and her children would stay\nwith her parents in Columbus, and later Clarksdale, until 1918 when Cornelius\ntook a job in St. Louis and demanded his family come with him. The birthplace\nof Tennessee Williams, now the Columbus Welcome Center, is open to the\npublic, and the town&nbsp;hosts the Tennessee Williams Tribute festival each year.&nbsp;&nbsp;</span></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 79.40210526672269,
+          "line": true,
+          "lon": -110.45654296875,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=\"https://www.muw.edu/\">Mississippi University for Women</a>; Photo from <a href=\"https://longblueline.muw.edu/alumni/alumni-association/\">MUW Alumni Association</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/MUW Columbus.jpg"
+        },
+        "text": {
+          "headline": "Columbus",
+          "text": "<p></p><p>After graduating\nfrom Jackson High School, <a href=\"https://mississippiencyclopedia.org/entries/eudora-welty/\" target=\"_blank\" rel=\"nofollow\">Eudora Welty</a> enrolled at the Mississippi State College for\nWomen (now <a href=\"https://mississippiencyclopedia.org/entries/mississippi-university-for-women/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/mississippi-university-for-women/\">Mississippi University for Women</a>), the first state-supported\ncollege for women in the United States. While at MUW, Welty discovered her love\nof <a href=\"https://mississippiencyclopedia.org/overviews/poetry/\" target=\"_blank\" rel=\"nofollow\">poetry</a><span> and wrote and drew for <span>the<em> Spectator</em></span>, the campus\nnewspaper. She spent two years there before moving on to the University of\nWisconsin at Madison, where she earned a bachelor\u2019s degree in English. Today, the\nannual <span>Eudora Welty Writers\u2019 Symposium<em>\n</em></span>at MUW attracts authors and scholars of global prominence.</span></p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 81.17786153785646,
+          "line": true,
+          "lon": -114.6533203125,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=\"http://ucheritagemuseum.com/\">William Faulkner Literary Garden</a>; Photo from <a href=\"http://ucheritagemuseum.com/\">Union County Heritage Museum</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Faulkner Literary Garden.jpg"
+        },
+        "text": {
+          "headline": "New Albany",
+          "text": "<p></p><p><span>Nobel\nPrize\u2013winner <a href=\"https://mississippiencyclopedia.org/entries/william-faulkner/\" target=\"_blank\" rel=\"nofollow\">William\nFaulkner</a>, one of the most celebrated literary figures in American history,\nwas born in 1897 in New Albany, Mississippi, the seat of <a href=\"https://mississippiencyclopedia.org/entries/union-county/\" target=\"_blank\" rel=\"nofollow\">Union County</a>.\nAt the age of five, his family moved to Oxford, where Faulkner would live for\nmost of his life. The counties surrounding Lafayette County in North\nMississippi, such as Union County, provided inspiration for Faulkner\u2019s famous <a href=\"https://mississippiencyclopedia.org/entries/faulkners-geography/\" target=\"_blank\" rel=\"nofollow\">Yoknapatawpha\nCounty</a>. Today, the Union County Heritage Museum, located just one block\nfrom the site of Faulkner\u2019s birth, celebrates the life of the renowned writer\nand the local connections found in his works, including his last novel <em>The Reivers</em> (1962), which won the Pulitzer\nPrize for <a href=\"https://mississippiencyclopedia.org/overviews/fiction/\" target=\"_blank\" rel=\"nofollow\">fiction</a>.</span></p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 81.17786153785646,
+          "line": true,
+          "lon": -114.67529296874999,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=\"http://ucheritagemuseum.com/\">Union County Heritage Museum</a>; Photo from <a href=\"http://mississippimuseums.org/union-county-heritage-museum/\">Mississippi Museums Association</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/union_county_museum.jpg"
+        },
+        "text": {
+          "headline": "New Albany",
+          "text": "<p></p><p>Writer <a href=\"https://mississippiencyclopedia.org/entries/borden-deal/\" target=\"_blank\" rel=\"nofollow\">Borden Deal</a>&nbsp;<span>spent his childhood in the farming\ncommunities around Pontotoc and New Albany, Mississippi, until his family lost\nits land during the <a href=\"https://mississippiencyclopedia.org/entries/great-depression/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/great-depression/\">Great\nDepression</a>. The family relocated to a communal farming project in\nEnterprise, where Deal stayed until the death of his father in 1936. The best\nknown of Deal\u2019s twenty-one novels are set in the American South, including </span><em>Dunbar\u2019s Cove</em>&nbsp;(1957),\na novel about the Tennessee Valley Authority, and&nbsp;<em>The Insolent Breed</em>&nbsp;(1959),\na story about hillbilly music and humanity\u2019s fight against encroaching\ncivilization.&nbsp;His works and legacy are celebrated at the <a href=\"https://mississippiencyclopedia.org/entries/union-county/\" target=\"_blank\" rel=\"nofollow\">Union County</a>\nHeritage Museum in New Albany.</p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 81.02662980948412,
+          "line": true,
+          "lon": -119.564208984375,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=\"https://www.rowanoak.com/\">Rowan Oak</a>; Photo from <a href=\"https://museum.olemiss.edu/historic-houses/rowan-oak/\">University of Mississippi Museum</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Rowan Oak.jpg"
+        },
+        "text": {
+          "headline": "Oxford",
+          "text": "<p></p><p>Most of <a href=\"https://mississippiencyclopedia.org/entries/william-faulkner/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/william-faulkner/\">William Faulkner</a>\u2019s works are set in the town of\nJefferson, seat of the <a href=\"https://mississippiencyclopedia.org/overviews/fiction/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/overviews/fiction/\">fictional</a> <a href=\"https://mississippiencyclopedia.org/entries/faulkners-geography/\" target=\"_blank\" rel=\"nofollow\">Yoknapatawpha County</a>, a place largely\ninspired by his hometown of Oxford, the political seat of <a href=\"https://mississippiencyclopedia.org/entries/lafayette-county/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/lafayette-county/\">Lafayette County</a><span>. In 1929, Faulkner published both <em>Sartoris</em>,\nhis first novel set in Yoknapatawpha County,<em> </em>and <em>The Sound and the\nFury</em>. That same year, he married his former high school sweetheart, Estelle\nOldham Franklin, and they settled in Oxford. The following year, Faulkner\npublished <em>As I Lay Dying</em> and purchased Rowan Oak, the Greek Revival house\nhe would call home for the rest of his life</span>. His daughter, Jill Faulkner Summers, eventually sold the\nhouse to the <a href=\"https://mississippiencyclopedia.org/entries/university-of-mississippi/\" target=\"_blank\" rel=\"nofollow\">University\nof Mississippi</a>, and today\nguests can tour the home, which contains much of the Faulkner family\u2019s original\nfurnishings.</p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 81.29835389104628,
+          "line": true,
+          "lon": -122.508544921875,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "Downtown Como; Photo from <a href=\"https://www.flickr.com/photos/auvet/8433213806/in/photolist-dRdqE3-9BLm5D-dRdpau-9BLn9X-9BPeJY-9BPcuC-9BLhcZ-9BKLEc-9BPfHU-9BNuRG-9BLaYv-9BKSCT-9BKD8R-9BP84E-9BNMzN-9BNLD3-9BNRCf-9BP4Zb-9BL4xe-9BKPjD-9BL1c6-9BKJ5t-9BNwXN-9BKZeK-9BKG1i-9BKCix-9BKXrr-9BL782-9BKTnK-9BNXhA-9BKYgZ-9BKNtD-9BL6cH-9BKH6P-9BP1AN-9BNYgL-9BKzEn-9BL7Zk-9BNFso-9BLa62-9BNSK7-9BKMAT-9BNBr7-9BNQHs-9BKDVZ-9BKBqF-6fKTbd\">Jimmy Emerson, DVM</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Downtown Como.jpg"
+        },
+        "text": {
+          "headline": "Como",
+          "text": "<p><a href=\"https://mississippiencyclopedia.org/entries/stark-young/\" target=\"_blank\" rel=\"nofollow\">Stark Young</a>\u2014famed novelist, poet, playwright, essayist, dramatist, professor, painter, and theater critic\u2014lived in Como and <a href=\"https://mississippiencyclopedia.org/entries/panola-county/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/panola-county/\">Panola County</a><span> until he was eight years old. He spent\nmuch of his childhood in the care of his maternal aunts and his uncle, who\nimparted the traditional southern perspective that would shape much of his work.\nDuring the early 1920s and early 1930s, Young wrote four novels set in\nMississippi, each inspired by locales in Como: <em>Heaven Trees </em>(1926), <em>The\nTorches Flare</em> (1928), <em>River House </em>(1929), and his most famous work, <em>So\nRed the Rose </em>(1934), a <a href=\"https://mississippiencyclopedia.org/overviews/civil-war/\" target=\"_blank\" rel=\"nofollow\">Civil Wa</a><a href=\"https://mississippiencyclopedia.org/overviews/civil-war/\" target=\"_blank\" rel=\"nofollow\">r</a>\nsaga that juxtaposes northern industrial society against southern agrarian life,\na frequent theme in both his </span><a href=\"https://mississippiencyclopedia.org/overviews/fiction/\" target=\"_blank\" rel=\"nofollow\">fiction</a> and <a href=\"https://mississippiencyclopedia.org/overviews/nonfiction/\" target=\"_blank\" rel=\"nofollow\">nonfiction</a>. Young died in New York on January\n6, 1963, and is buried in the Friendship Cemetery in Como.</p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 80.832657242431,
+          "line": true,
+          "lon": -128.155517578125,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "Tennessee Williams Park; Photo from <a href=\"https://www.flickr.com/photos/johnbpadgett/13895514714/in/photolist-naU9pU-naUicU-naSrHK-4sUz3V-gGuFrf-jjVRo-2eG74GG-4B9C2L-24wnigX-21sq4Vd-Z1qp4c-Y27yi4-mPGACR-KQynqH-7VjunX-DQezRV-b3Rpq8-7yTwxF-EgFhHf-cRJ7Eb-cvDoWf-2bEcf8E-2gB58VU-mk1Ykq-SnDDNo-22jSKmk-VdAKU9-RjdmY6-sbgYo8-2d5CLL1-2GUseX-2c36Uh6-EgzLm3-21eBQVN-HsHe2e-tDi8DX-2doBDHq-aiZry2-9ankq4-5Ft2qp-AqvDx-CLgbw-kmwmD8-kmwm2r-kmwfRX-kmvYe8-2bNWdDo-QMbcsJ-pYrEwg-kmwscx\">John Padgett</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Tenessee Williams Park_Clarksdale.jpg"
+        },
+        "text": {
+          "headline": "Clarksdale",
+          "text": "<p></p><p>In 1917, when <a href=\"https://mississippiencyclopedia.org/entries/tennessee-williams/\" target=\"_blank\" rel=\"nofollow\">Tennessee\nWilliams</a><span> was three years old, his family moved from Columbus to Clarksdale,\nwhere his grandfather served as the rector of Clarksdale\u2019s St. George\u2019s Episcopal\nChurch. The playwright visited his grandfather often as a child and later remembered\nfeeling awed by social functions hosted by Blanche Clark (the daughter of\nClarksdale founder, John Clark) and her husband, J. W. Cutrer. The Cutrers and\ntheir mansion inspired character names and settings in several works by\nWilliams, including <em>The Glass Menagerie </em>(1944) and <em>A Streetcar Named\nDesire </em>(1947). Today, Clarksdale is home to the Tennessee Williams Park and\nthe annual Mississippi Delta Tennessee Williams Festival, during which porch\nplays are performed in Clarksdale\u2019s historic district.</span></p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 79.46255079885297,
+          "line": true,
+          "lon": -132.484130859375,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "River Boat at Greenville; Photo from <a href=\"https://www.flickr.com/photos/jimmysmith/20727085352/in/photolist-xzzJmy-2g4jSpa-2g4jExp-DgfijB-CQ2mei-DowdZp-Dgfhc6-Dowbue-Cr1DEf-Dowg7F-CQ2hzp-Cr8KQ6-DdXbXA-Cr1FEN-wDozY9-xiUikM-Q3YhSb-CQ2g7e-4C6F9q-ehmT8-cJMe6C-b6RFPn-KvJ7UN-6kGGgS-AbnKPQ-6kCvUD-26gTcuT-2g4k9gk-2g4jUM7-24TSkfE-6ZvPBw-2g4jTCz-2g4jYpG-6ZrPFM-2g4jyVK-6ZrRKa-6ZvQ7Y-6ZrQ8z-9FZJEi-7Zx1ba-gmgpoN-6kCwpK-7ZAr9L-6kCwv6-9G3DqN-9FZJvn-6kGFKL-9G3Df5-6kCw4z-sfFNW6\">Jimmy Smith</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Greenville.jpg"
+        },
+        "text": {
+          "headline": "Greenville",
+          "text": "<p></p><p><a href=\"https://mississippiencyclopedia.org/entries/shelby-foote/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/shelby-foote/\">Shelby Foote</a> was born in Greenville,\nMississippi, the descendant of wealthy Delta planters. In 1930, he made a\nlifelong friendship with fellow writers, <a href=\"https://mississippiencyclopedia.org/entries/william-alexander-percy/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/william-alexander-percy/\">William Alexander Percy</a> and <a href=\"https://mississippiencyclopedia.org/entries/walker-percy/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/walker-percy/\">Walker Percy</a>, after the elder Percy requested\nthat Foote show his teenage cousins around Greenville. Though he wrote <a href=\"https://mississippiencyclopedia.org/overviews/fiction/\" target=\"_blank\" rel=\"nofollow\">fiction</a>\u2014four of his five novels centered\non the <a href=\"https://mississippiencyclopedia.org/entries/delta/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/delta/\">Delta</a><span> and are set in fictional &nbsp;Jordan County and its county seat, Bristol, which\nclosely resemble </span><a href=\"https://mississippiencyclopedia.org/entries/washington-county/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/washington-county/\">Washington County</a> and Greenville\u2014he is best known as\na historian of the <a href=\"https://mississippiencyclopedia.org/overviews/civil-war/\" target=\"_blank\" rel=\"nofollow\">Civil War</a><span>. Foote dedicated twenty years to\nwriting a trilogy about the conflict and became famous through his commentary in\nKen Burns\u2019s 1990 documentary series <em>The Civil War.</em></span></p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 79.46656836024047,
+          "line": true,
+          "lon": -132.506103515625,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "Washington County Courthouse; Photo from <a href=\"https://www.flickr.com/photos/auvet/3923027087/in/photolist-75bnej-zj2C8o-ypsiq8-Ftphgn-b6RFsP-yEabJg-5Ei2bV-2gwQQy-sfFRz2-9uQH3v-b6RERr-2gwQ3J-zBVNQp-yE1zYS-zzX2kA-7xVeNy-zjqcQU-4ts4n4-4BecWA-9J89bc-7xRpA6-FfXExX-sfJtBc-2gsoF8-7xRqet-z4HK6U-9uTHC9-yphaN5-7xVdBw-CTwWzj-riJkUY-6YExh4-2gsnS2-tW5hU-9uTHmh-9uQHDz-rYhfVn-2gson4-sfzHCJ-rYhepg-ypgZ2q-rY95zC-rY95ph-4BecWw-riVNqR-rWpmUH-9J89jg-9VSYQv-9ykBNa-3hgCqu/\">Jimmy Emerson, DVM</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Greenville Courthouse.jpg"
+        },
+        "text": {
+          "headline": "Greenville",
+          "text": "<p></p><p>National\nBook Award\u2013winning novelist <a href=\"https://mississippiencyclopedia.org/entries/walker-percy/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/walker-percy/\">Walker Percy</a> was born in Birmingham, Alabama, in\n1916. Following the tragic deaths of his parents, Percy and his two brothers\nmoved to Greenville, Mississippi, in 1930 to live with their second cousin, <a href=\"https://mississippiencyclopedia.org/entries/william-alexander-percy/\" target=\"_blank\" rel=\"nofollow\">William Alexander Percy</a>. In Greenville, Percy was\nintroduced to the world of literature by his \u201cUncle Will,\u201d who, as a lawyer and\naristocratic planter, was a prominent member of the <a href=\"https://mississippiencyclopedia.org/entries/delta/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/delta/\">Delta</a>\u2019s ruling class, and as a poet and\na writer was at the center of Greenville's artistic and cultural community. His\nelder cousin also introduced Percy to lifelong friend and fellow Greenville writer,\n<a href=\"https://mississippiencyclopedia.org/entries/shelby-foote/\" target=\"_blank\" rel=\"nofollow\">Shelby Foote</a>.</p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 77.07878389624943,
+          "line": true,
+          "lon": -125.452880859375,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=\"http://www.jhlibrary.com/calendar-for-location/Richard-Wright-Library/201910\">Richard Wright Library </a>; Photo from <a href=\"http://jhlibrary.org/\">Jackson-Hinds Library System</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Richard Wright Library Jackson.jpg"
+        },
+        "text": {
+          "headline": "Jackson",
+          "text": "<p></p><p><span>Of the\nmyriad places <a href=\"https://mississippiencyclopedia.org/entries/richard-wright/\" target=\"_blank\" rel=\"nofollow\">Richard Wright</a> lived in his youth, the one that offered him the\nmost consistency was Jackson, where his maternal grandmother lived, and where he\nremained to earn an education from 1920 to 1925. Wright wrote about his strict grandmother,\na devout Seventh-day Adventist who \u201cinformed his understanding of the folk mind\nand southern black culture,\u201d in his autobiography, <em>Black Boy </em>(1945). Always\nchallenging authority and religious doctrine, Wright published his first story,\n\u201cThe Voodoo of Hell\u2019s Half-Acre\u201d in the <em>Southern Register</em>, a&nbsp;</span>black Jackson&nbsp;newspaper, at the age of fifteen. Though a good student, Wright dropped\nout of high school in 1925 at the age of seventeen and moved to Memphis (and\nlater Chicago and New York) to work and write, eventually securing literary\nfame with the publication of his landmark novel <em>Native Son</em> (1940).</p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 77.0836963067392,
+          "line": true,
+          "lon": -125.452880859375,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=\"http://www.jsums.edu/margaretwalkercenter/\">Ayer Hall, JSU, home of the Margeret Walker Center</a>; Photo from <a href=\"https://commons.wikimedia.org/wiki/File:Ayer_Hall.jpg\">Charlie Ali</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Ayer_Hall Walker Center.jpg"
+        },
+        "text": {
+          "headline": "Jackson",
+          "text": "<p></p><p><span>Born in\nBirmingham to gifted parents, <a href=\"https://mississippiencyclopedia.org/entries/margaret-walker-alexander/\" target=\"_blank\" rel=\"nofollow\">Margaret Walker </a>was groomed from birth for\nliterary acclaim. She befriended <a href=\"https://mississippiencyclopedia.org/entries/richard-wright/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/entries/richard-wright/\">Richard\nWright</a> while working for the WPA Chicago Writers\u2019 Project and later\nbelonged to a literary milieu that included some of the most celebrated black\nauthors of the twentieth century. Her most notable works include her first\ncollection of <a href=\"https://mississippiencyclopedia.org/overviews/poetry/\" target=\"_blank\" rel=\"nofollow\">poetry</a>,\n<em>For My People</em> (1942), which won the\nYale Series of Younger Poets Competition, and her only novel, <em>Jubilee</em> (1966), which earned her the\nHoughton Mifflin Literary Fellowship Award. In 1949, she moved to Mississippi\nand joined the faculty of Jackson State College (later </span><a href=\"https://mississippiencyclopedia.org/entries/jackson-state-university/\" target=\"_blank\" rel=\"nofollow\">Jackson State University</a><span>), where she taught English for\nthirty years. While a member of the faculty, she played an integral part in\ndeveloping and nurturing the university\u2019s humanities and honors programs, though\nher greatest and longest-lasting effort was the Institute for the Study of the\nHistory, Life, and Culture of Black People, which was later renamed the\nMargaret Walker Center. Founded by Walker in 1968, the center houses an array\nof collections that document the African American experience.&nbsp;</span></p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 77.08124033101944,
+          "line": true,
+          "lon": -125.43090820312499,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "<a href=https://www.mdah.ms.gov/welty/>Eudora Welty House and Garden</a>; Photo from <a href=\"https://eudorawelty.org\">Eudora Welty Foundation</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Welty House.jpg"
+        },
+        "text": {
+          "headline": "Jackson",
+          "text": "<p></p><p><a href=\"https://mississippiencyclopedia.org/entries/eudora-welty/\" target=\"_blank\" rel=\"nofollow\">Eudora Welty</a> was born in a house located on\nNorth Congress Street in Jackson in 1909. Only the Capitol Building separated\nher childhood home from the Carnegie Library, where her mother encouraged her\nto read any book she wanted, as frequently as possible. When she was sixteen, her\nfamily moved to the house at 1119 Pinehurst Street, across from Belhaven\nCollege for Young Ladies (later <a href=\"https://mississippiencyclopedia.org/entries/belhaven-university/\" target=\"_blank\" rel=\"nofollow\">Belhaven University</a>), where she lived until her death in\n2001, at the age of ninety-two. It was in this house that Welty wrote almost\nall of her <a href=\"https://mississippiencyclopedia.org/overviews/fiction/\" target=\"_blank\" rel=\"nofollow\">fiction</a> and short stories. Welty\nbequeathed her house to the state of Mississippi, and visitors of the literary\nmuseum can see how she left her home, with the exterior, interior, furnishings,\nand gardens all meticulously preserved. Today, the Eudora Welty House is\ndesignated a National Historic Landmark and listed on the National Register of Historic\nPlaces.</p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 75.23626782476198,
+          "line": true,
+          "lon": -136.878662109375,
+          "zoom": 7
+        },
+        "media": {
+          "caption": "",
+          "credit": "Mississippi Bridge in Natchez; Photo from <a href=\"https://www.flickr.com/photos/amagard/39338257472/in/photolist-22WbRqu-cGfq9U-cGfpQu-cGeVu5-Ac9qZE-HZFqyu-T5gL6P-PhkDn1-BVm3YR-CTZJ2z-cGfqTj-SwvkWo-22cugCG-oRT6Kb-cGfqJC-dViEeA-25Lmx4Z-253pNV3-dmFMKU-22xeprM-231NcqK-pU1bQt-8bbRob-98T86G-9mxhxq-9muimR-9mxh5f-cAC91h-cbSiBs-3jm5aC-aXZpJ8-JFP55o-PFuos-6iUFCE-32gLgj-7XtEpK-32cbqn-32c9XD-ebgJST-Qt7vX9-cACcQS-4zZhH9-32ccgt-ejeQAJ-2XHZGG-7Kb2ZX-d3A4E-4MPSD8-31hoVL-fjMadc\">Axel Magard</a>",
+          "url": "//uploads.knightlab.com/storymapjs/3df56e350378e51781746bfb2a2ea428/test/_images/Natchez.jpg"
+        },
+        "text": {
+          "headline": "Natchez",
+          "text": "<p></p><p><a href=\"https://mississippiencyclopedia.org/entries/richard-wright/\" target=\"_blank\" rel=\"nofollow\">Richard Wright</a> was born in 1908, on Rucker\nPlantation, in rural <a href=\"https://mississippiencyclopedia.org/entries/adams-county/\" target=\"_blank\" rel=\"nofollow\">Adams County</a><span>, approximately twenty miles outside\nNatchez. From the time of his birth, Wright experienced frequent displacement\nand intense poverty, experiences he explores in his autobiography <em>Black Boy</em>\n(1945). Wright\u2019s father moved the family to Memphis when Wright was seven, only\nto desert the family soon after. Wright spent the remainder of his adolescence\nmoving from place to place and staying with different relatives as a result of\nhis mother\u2019s poor health. Wright\u2019s early childhood home, where he lived with\nhis grandparents, is located in Natchez and bears a historical marker. The\nhighway that leads into Natchez, an origination point for the </span><a href=\"https://mississippiencyclopedia.org/entries/natchez-trace-parkway/\" target=\"_blank\" rel=\"nofollow\">Natchez Trace Parkway</a>, is also named in Wright\u2019s honor.</p><p></p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 75.23626782476198,
+          "line": true,
+          "lon": -136.8896484375,
+          "zoom": 7
+        },
+        "media": { "caption": "", "credit": "", "url": "" },
+        "text": {
+          "headline": "Thanks, y'all!",
+          "text": "This story map is the result of a collaboration between the&nbsp;<a href=\"http://www.encyclopediaofalabama.org/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: http://www.encyclopediaofalabama.org/\">Encyclopedia of Alabama</a>, <a href=\"https://mississippiencyclopedia.org/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://mississippiencyclopedia.org/\">Mississippi Encyclopedia</a>, <a href=\"https://www.georgiaencyclopedia.org/\" target=\"_blank\" rel=\"nofollow\">New Georgia Encyclopedia</a>, and the <a href=\"https://www.southernliterarytrail.org/\" target=\"_blank\" rel=\"nofollow\" title=\"Link: https://www.southernliterarytrail.org/\">Southern Literary Trail</a>&nbsp;\u00ae.&nbsp;<span>The Trail is headquartered with an office and permanent display gallery in the Mitchell Library at <a href=\"http://lib.msstate.edu/\" target=\"_blank\" rel=\"nofollow\">Mississippi State University</a>.</span><br><br>Thank you for exploring the trail with us. Read on and read South!"
+        }
       }
     ],
     "zoomify": {
-      "attribution": "",
-      "height": 5000,
-      "path": "https://judokao.github.io/0415nccumap/",
-      "width": 5000
+      "attribution": "Library of Congress",
+      "height": 13416,
+      "path": "https://sldevine.github.io/Final-Southern-Lit/",
+      "width": 18280
     }
   }
 }
